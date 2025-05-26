@@ -1,7 +1,7 @@
 # Passport application system
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040248
+# Name:praveena d
+# Date:25.05.2025
 
 
 # AIM:
@@ -37,6 +37,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
+![image](https://github.com/user-attachments/assets/cdca2043-66be-4691-98e0-9e9b1d9308da)
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![image](https://github.com/user-attachments/assets/8ff10e45-dfbf-4bc5-baa6-598305be740b)
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+![image](https://github.com/user-attachments/assets/51e3ca0f-071e-4d41-b4bf-737ded737aab)
 
 
 # PACKAGE DIAGRAM:
@@ -78,6 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+![image](https://github.com/user-attachments/assets/6db1a209-fa40-4c57-9439-b7cd114c99d4)
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+![image](https://github.com/user-attachments/assets/a05bf951-6ecb-40c4-889a-1558e6250fb6)
 
 
 
@@ -118,6 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+![image](https://github.com/user-attachments/assets/13cb8567-a76a-4d4d-a054-c52c9dc0f97a)
 
 
 
